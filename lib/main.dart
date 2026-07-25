@@ -19,7 +19,7 @@ class Challenger207iApp extends StatelessWidget {
           brightness: Brightness.dark,
           primaryColor: Colors.redAccent,
           scaffoldBackgroundColor: const Color(0xFF1A1A1A),
-          // fontFamily: 'Vazir',  // اگر فونت رو نداری، این خط رو کامنت کن
+           fontFamily: 'Vazir',
         ),
         localizationsDelegates: const [
           DefaultMaterialLocalizations.delegate,
